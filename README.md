@@ -5,7 +5,4 @@
   - 编写idea插件，动态热脚本，ast语法树权限校验
   - dubbo连接池SPI，高并发指令重拍优化，分支预测性能优化，哨兵算法
 
-![lan-dian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lan-dian)
-<!--
-**langar294/langar294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
